@@ -159,3 +159,22 @@ body {
 .footer p {
     margin: 5px 0;
 }
+
+.buy-btn {
+    display: block;
+    width: 100%;
+    background-color: #e67e22;
+    border: none;
+    color: #fff;
+    padding: 10px 0;
+    font-weight: bold;
+    border-radius: 4px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.buy-btn:hover {
+    background-color: #d35400;
+}
